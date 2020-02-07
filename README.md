@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+1) Clone or download the code from the url (https://github.com/vijay35781/Assignment)
+
+2)In the project directory, you can run:
+
+### `npm install`
+
+3)After downloading the dependencies. 
+
 In the project directory, you can run:
 
 ### `npm start`
